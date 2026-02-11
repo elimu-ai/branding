@@ -3,6 +3,7 @@
 See
 * `logo/`
 * `business-card/`
+* `dao-roles/`
 * `t-shirt/`
 
 ---
